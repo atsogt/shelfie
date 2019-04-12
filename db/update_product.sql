@@ -1,0 +1,1 @@
+UPDATE shelfieproduct SET price = $2 shelfieproduct_id = $1;
